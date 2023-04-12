@@ -1,0 +1,8 @@
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\SingletonAyar\bin\Debug\SingletonAyar.exe.config
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\SingletonAyar\bin\Debug\SingletonAyar.exe
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\SingletonAyar\bin\Debug\SingletonAyar.pdb
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\SingletonAyar\obj\Debug\SingletonAyar.csproj.AssemblyReference.cache
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\SingletonAyar\obj\Debug\SingletonAyar.csproj.SuggestedBindingRedirects.cache
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\SingletonAyar\obj\Debug\SingletonAyar.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\SingletonAyar\obj\Debug\SingletonAyar.exe
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\SingletonAyar\obj\Debug\SingletonAyar.pdb
